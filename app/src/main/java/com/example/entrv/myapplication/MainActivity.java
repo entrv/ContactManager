@@ -33,6 +33,7 @@ public class MainActivity extends ActionBarActivity {
     ListView contactListView;
     Uri imageUri = Uri.parse("android.resource://org.intercode.contactmanager/drawable/no_user.png");
     DatabaseHandler dbHandler;
+    //commit test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
